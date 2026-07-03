@@ -1,0 +1,58 @@
+/* ==========================================
+   Education Section
+   ========================================== */
+.education {
+    position: relative;
+}
+
+.education-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.education-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 28px;
+    transition: var(--transition-base);
+}
+
+.education-card:hover {
+    border-color: rgba(108, 99, 255, 0.2);
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-glow);
+}
+
+.education-card .timeline-date {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--primary-light);
+    background: rgba(108, 99, 255, 0.1);
+    padding: 4px 14px;
+    border-radius: 100px;
+    margin-bottom: 12px;
+}
+
+.education-card h3 {
+    font-family: var(--font-heading);
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.education-card .timeline-institution {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+}
+
+.education-card p {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.7;
+}
