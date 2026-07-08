@@ -49,7 +49,7 @@ export function render() {
                 <div class="hero-visual reveal">
                     <div class="hero-image-wrapper">
                         <div class="hero-image-placeholder">
-                            <i class="fas fa-code"></i>
+                            <img src="src/images/image.jpeg" alt="image">
                         </div>
                         <div class="hero-status-card">
                             <div class="status-dot"></div>
