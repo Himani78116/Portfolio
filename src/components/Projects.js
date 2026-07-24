@@ -34,6 +34,7 @@ export function render() {
                                 <span class="tech-tag">React</span>
                                 <span class="tech-tag">Next.js</span>
                                 <span class="tech-tag">PostgreSQL</span>
+                                <span class="tech-tag">Groq API</span>
                             </div>
                         </div>
                     </div>
@@ -61,10 +62,10 @@ export function render() {
 multilingual chat. Implemented Supabase authentication, PostgreSQL database, eligibility - checking logic.</p>
                             <div class="project-tech">
                                 <span class="tech-tag">React</span>
-                                <span class="tech-tag">Next.js</span>
                                 <span class="tech-tag">PostgreSQL</span>
                                 <span class="tech-tag">FastAPI</span>
-                                <span class="tech-tag">LLM API</span>
+                                <span class="tech-tag">Groq API</span>
+                                <span class="tech-tag">Sarvam AI API</span>
                             </div>
                         </div>
                     </div>
