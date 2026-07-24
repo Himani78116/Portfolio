@@ -58,7 +58,7 @@ export function render() {
                         </div>
                         <div class="project-info">
                             <h3 class="project-title">AI Government Scheme Assistant</h3>
-                            <p class="project-description">Collaborated with a 4-member team to build an AI-powered government scheme assistant. Developed the backend using FastAPI, integrating Grok API and Web Speech API for 
+                            <p class="project-description">Collaborated with a 4-member team to build an AI-powered government scheme assistant. Developed the backend using FastAPI, integrating Groq API and Web Speech API for 
 multilingual chat. Implemented Supabase authentication, PostgreSQL database, eligibility - checking logic.</p>
                             <div class="project-tech">
                                 <span class="tech-tag">React</span>
